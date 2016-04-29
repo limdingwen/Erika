@@ -1,0 +1,12 @@
+{
+  "name": "Erika",
+  "version": "1.0.0",
+  "description": "The chatting system for Erikas",
+  "main": "server.js",
+  "repository": "",
+  "author": "Mostafa Eweda <mo.eweda@gmail.com>",
+  "dependencies": {
+    "express": "^4.13.4",
+    "socket.io": "^1.4.5"
+  }
+}
